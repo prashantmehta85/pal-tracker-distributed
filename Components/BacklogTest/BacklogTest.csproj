@@ -5,7 +5,7 @@
   <ItemGroup>
     <ProjectReference Include="../Backlog/Backlog.csproj" />
     <ProjectReference Include="../TestSupport/TestSupport.csproj" />
-    <PackageReference Include="MySqlConnector" Version="0.60.2" />
+    <PackageReference Include="MySqlConnector" Version="2.6.1" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.3.0" />
